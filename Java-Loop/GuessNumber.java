@@ -4,7 +4,7 @@
 //For  each user input, the program tells the user whether the input is too low or too high, so the user  can make the next guess intelligently.
 //The magic number is between 0 and 100. To minimize the number of guesses, enter 50 first.If your guess is too high, the magic number is between 0 and 49.
 //If your guess is too low,the magic number is between 51 and 100. 
-//Thus, you can eliminate half of the numbers from  further consideration after one guess.
+//Thus, you can eliminate half of the numbers from  further consideration after one guess...
 import java.util.Scanner;
 
 public class GuessNumber {
